@@ -3,6 +3,9 @@
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
+There Are Basically All Automated Tasks You Have Been Searching For:
+From AI To Automate Chrome Dinosaur Game.All tasks So lets Get Started >>>
+
 :cookie: Cookies for all contributors as well~
 
 ## What do we have:
